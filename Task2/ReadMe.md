@@ -17,8 +17,11 @@ Step3. write to the same area and same channal in target image with the buffer.
 
 Just set three channal of designated area to 0 (black) or 255(white) then write to the target image.
 
-![test](test.tif)
+![Source image](test.jpg)
+
+And [result image](test.tif)
 
 ## Some problem
 
 I don't make sure how GDAL process storage manage, so I reapply the buffer when finish a subtask with CPLFree(buffTmp) and CPLMalloc().
+I don't know how to deal with .jpeg file by GDAL, and I try to modify the suffix of output .tif file  to .jpg manually, however it cannot diaplay normally in markdown.
