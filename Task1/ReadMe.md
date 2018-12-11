@@ -18,6 +18,8 @@ Offered by my [teacher](https://github.com/summitgao), DO NOT FORWORD WITHOUT AP
 
 Just use GDAL load the picture into buff area, then write to another .tif file.
 
+![trees](trees.tif)
+
 * * *
 
 ## Some problem
