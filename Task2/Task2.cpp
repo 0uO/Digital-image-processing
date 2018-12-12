@@ -33,7 +33,7 @@ int _tmain(int argc, _TCHAR* argv[])
     cout<<bandNum<<endl;
 
 	// Ð´Ô­Í¼Ïñ
-    buffTmp = (GByte*)(CPLMalloc)(imgXlen*imgXlen*sizeof(GByte));
+    buffTmp = (GByte*)(CPLMalloc)(imgXlen*imgYlen*sizeof(GByte));
 
     poDstDS = GetGDALDriverManager()->GetDriverByName("GTiff")->Create(dstPath,imgXlen,imgYlen,bandNum,GDT_Byte,nullptr);
 
