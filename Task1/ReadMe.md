@@ -12,7 +12,7 @@ style: plain
 
 [gdal](https://ouceducn-my.sharepoint.com/:u:/g/personal/gaofeng_ouc_edu_cn/ES8fvuffgxdOs7lSwpTzocYBd4gJFrDde6vNIXFhQyMWeQ?e=7LbJgt)
 
-Offered by my [teacher](https://github.com/summitgao), DO NOT FORWORD WITHOUT APPLICATION.
+Offered by my [professor](https://github.com/summitgao), DO NOT FORWORD WITHOUT PERMISSION.
 
 ## Save as *.tif
 
