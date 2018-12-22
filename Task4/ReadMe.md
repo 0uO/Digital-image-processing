@@ -52,7 +52,7 @@ BTW, pointer is such an anti-human stuff, it drive me crazy.
 
 ## Some problem
 
-Lots of pointer things.
+Lots of pointer issues.
 
 I cut off the value of a pixel into [0,255] every add or mutiply operation, which is a fatal error that cause the disaster. Actually, when running the convolution, cut ing off should be carryed after all elements summed up. 
 
