@@ -44,7 +44,7 @@ I package the Pixel Class and Pictrue Class in Pic.h.
 
 ## Some problem
 
-Though the tutorial instructs that pixels satisfy **10<r<160 & 100<g<220 & 10<b<110** are the superman, in fact I choosed the pixels with condition **! (10<r<160 & 100<g<220 & 10<b<110)** and got the right result, and below was the former condition's output.
+Though the tutorial instructs that pixels satisfy **10<r<160 & 100<g<220 & 10<b<110** are the superman, in fact I choosed the pixels with condition **! (10<r<160 & 100<g<220 & 10<b<110)** and got the right result, and follow was the output with former condition.
 
 
 ![output2](output2.jpg)
