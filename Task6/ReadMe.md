@@ -1,7 +1,7 @@
 ---
 style: plain
 ---
-6rd Task: Image segmentation
+6th Task: Image segmentation
 ===========
 
 [[toc]]
