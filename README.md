@@ -41,6 +41,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	tmp.save("example.jpg","JPEG");
 
 	system("PAUSE");
+	delete im_fus;
 	return 0;
 }
 ```
